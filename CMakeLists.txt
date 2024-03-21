@@ -9,4 +9,6 @@ add_executable(draw_shapes main.cpp
         Shape.cpp
         Shape.h
         Sheet.cpp
-        Sheet.h)
+        Sheet.h
+        Triangle.cpp
+        Triangle.h)

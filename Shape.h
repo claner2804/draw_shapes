@@ -29,7 +29,7 @@ public:
     //dynamic binding for draw method
     //draw method not implemented in shape class because
     //it will be changed in derived classes that is why =0
-    virtual void draw(std::ostream& out = std::cout) = 0;
+    virtual void draw(std::ostream& out) = 0;
 
 };
 
