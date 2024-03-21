@@ -11,3 +11,4 @@ Shape::Shape(Pos2D pos, const std::string& color) : pos(pos), color(color) {
 Shape::~Shape() {
     std::cout << "Calling Shape::~Shape()" << std::endl;
 };
+

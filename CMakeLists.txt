@@ -7,4 +7,6 @@ add_executable(draw_shapes main.cpp
         Pos2D.cpp
         Pos2D.h
         Shape.cpp
-        Shape.h)
+        Shape.h
+        Sheet.cpp
+        Sheet.h)

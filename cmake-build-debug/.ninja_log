@@ -1,5 +1,5 @@
 # ninja log v5
-1	136	7327478605092925	build.ninja	9f3c3395d0f1fa61
+1	136	7327484118350254	build.ninja	9f3c3395d0f1fa61
 3	393	7327478609733276	CMakeFiles/draw_shapes.dir/Pos2D.cpp.obj	1054f8943851cde
 6	395	7327478609743241	CMakeFiles/draw_shapes.dir/main.cpp.obj	65dee92fd7b67a03
-0	415	7327478609962659	CMakeFiles/draw_shapes.dir/Shape.cpp.obj	d76d3b32d983b6c6
+3	378	7327482224405373	CMakeFiles/draw_shapes.dir/Shape.cpp.obj	d76d3b32d983b6c6
