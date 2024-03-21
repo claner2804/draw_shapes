@@ -79,6 +79,12 @@ build CMakeFiles/draw_shapes.dir/Triangle.cpp.obj: CXX_COMPILER__draw_shapes_uns
   OBJECT_DIR = CMakeFiles\draw_shapes.dir
   OBJECT_FILE_DIR = CMakeFiles\draw_shapes.dir
 
+build CMakeFiles/draw_shapes.dir/Circle.cpp.obj: CXX_COMPILER__draw_shapes_unscanned_Debug C$:/Users/clane/CLionProjects/draw_shapes/Circle.cpp || cmake_object_order_depends_target_draw_shapes
+  DEP_FILE = CMakeFiles\draw_shapes.dir\Circle.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\draw_shapes.dir
+  OBJECT_FILE_DIR = CMakeFiles\draw_shapes.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target draw_shapes
@@ -87,7 +93,7 @@ build CMakeFiles/draw_shapes.dir/Triangle.cpp.obj: CXX_COMPILER__draw_shapes_uns
 #############################################
 # Link the executable draw_shapes.exe
 
-build draw_shapes.exe: CXX_EXECUTABLE_LINKER__draw_shapes_Debug CMakeFiles/draw_shapes.dir/main.cpp.obj CMakeFiles/draw_shapes.dir/Pos2D.cpp.obj CMakeFiles/draw_shapes.dir/Shape.cpp.obj CMakeFiles/draw_shapes.dir/Sheet.cpp.obj CMakeFiles/draw_shapes.dir/Triangle.cpp.obj
+build draw_shapes.exe: CXX_EXECUTABLE_LINKER__draw_shapes_Debug CMakeFiles/draw_shapes.dir/main.cpp.obj CMakeFiles/draw_shapes.dir/Pos2D.cpp.obj CMakeFiles/draw_shapes.dir/Shape.cpp.obj CMakeFiles/draw_shapes.dir/Sheet.cpp.obj CMakeFiles/draw_shapes.dir/Triangle.cpp.obj CMakeFiles/draw_shapes.dir/Circle.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\draw_shapes.dir
