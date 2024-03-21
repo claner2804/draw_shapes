@@ -1,0 +1,3 @@
+C:/Users/clane/CLionProjects/draw_shapes/cmake-build-debug/CMakeFiles/draw_shapes.dir
+C:/Users/clane/CLionProjects/draw_shapes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/clane/CLionProjects/draw_shapes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
